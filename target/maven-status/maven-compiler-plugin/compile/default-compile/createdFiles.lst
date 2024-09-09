@@ -1,0 +1,10 @@
+br\com\erivanmuniz\todolist\task\TaskModel.class
+br\com\erivanmuniz\todolist\utils\Utils.class
+br\com\erivanmuniz\todolist\filter\FilterTaskAuth.class
+br\com\erivanmuniz\todolist\errors\ExceptionHandlerController.class
+br\com\erivanmuniz\todolist\user\UserController.class
+br\com\erivanmuniz\todolist\user\UserModel.class
+br\com\erivanmuniz\todolist\task\ITaskRepository.class
+br\com\erivanmuniz\todolist\TodolistApplication.class
+br\com\erivanmuniz\todolist\task\TaskController.class
+br\com\erivanmuniz\todolist\user\IUserRepository.class
